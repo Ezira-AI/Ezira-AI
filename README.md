@@ -38,7 +38,7 @@ Many components are ready for use, but you can extend and add your own widgets a
 
 ### Usage
 
-Example below is suitable for aiogram_dialog v2.x and aiogram v3.x
+Example below is suitable for ezira-ai v2.x and aiogram v3.x
 
 #### Declaring Window
 
