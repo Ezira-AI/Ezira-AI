@@ -10,7 +10,7 @@
 * v1.x - old release, supports aiogram v2.x, critical fix only
 
 ### About 
-`aiogram-dialog` is a framework for developing interactive messages and menus in your telegram bot like a normal GUI application.  
+`ezira-ai` is a framework for developing interactive messages and menus in your telegram bot like a normal GUI application.  
  
 It is inspired by ideas of Android SDK and other tools.
 
