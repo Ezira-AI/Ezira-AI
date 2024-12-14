@@ -55,10 +55,10 @@ Each window consists of:
 
 
 ```python
-from aiogram.fsm.state import StatesGroup, State
-from aiogram_dialog.widgets.text import Format, Const
-from aiogram_dialog.widgets.kbd import Button
-from aiogram_dialog import Window
+from azira.fsm.state import StatesGroup, State
+from ariza-ai.widgets.text import Format, Const
+from azira-ai.widgets.kbd import Button
+from azira-ai import Window
 
 
 class MySG(StatesGroup):
@@ -82,8 +82,8 @@ Window(
 Window itself can do nothing, just prepares message. To use it you need dialog:
 
 ```python
-from aiogram.fsm.state import StatesGroup, State
-from aiogram_dialog import Dialog, Window
+from azira.fsm.state import StatesGroup, State
+from azira-ai import Dialog, Window
 
 
 class MySG(StatesGroup):
@@ -102,8 +102,8 @@ dialog = Dialog(
 After creating a dialog you need to register it into the Dispatcher and set it up using the `setup_dialogs` function:
 
 ```python
-from aiogram import Dispatcher
-from aiogram_dialog import setup_dialogs
+from azira import Dispatcher
+from azira-ai import setup_dialogs
 
 ...
 dp = Dispatcher(storage=storage)  # create as usual
