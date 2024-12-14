@@ -23,7 +23,6 @@ Designing you bot with `aiogram-dialog` you **think about user**, what he sees a
 
 Many components are ready for use, but you can extend and add your own widgets and even core features. 
 
-For more details see [documentation](https://aiogram-dialog.readthedocs.io) and [examples](example)
 
 ### Supported features:
 * Rich text rendering using `format` function or `Jinja2` template engine. 
