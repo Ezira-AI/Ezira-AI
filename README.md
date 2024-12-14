@@ -1,4 +1,4 @@
-# Aiogram Dialog
+# Ezia-ChatAI
 
 [![PyPI version](https://badge.fury.io/py/aiogram-dialog.svg)](https://badge.fury.io/py/aiogram-dialog)
 [![Doc](https://readthedocs.org/projects/aiogram-dialog/badge/?version=latest&style=flat)](https://aiogram-dialog.readthedocs.io)
