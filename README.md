@@ -19,7 +19,7 @@ Main ideas are:
 * **reusable widgets**  - you can create calendar or multiselect at any point of your application without copy-pasting its internal logic  
 * **limited scope of context** - any dialog keeps some data until closed, multiple opened dialogs process their data separately
 
-Designing you bot with `aiogram-dialog` you **think about user**, what he sees and what he does. Then you split this vision into reusable parts and design your bot combining dialogs, widows and widgets. By this moment you can review interface and add your core logic. 
+Designing you bot with `ezira-ai` you **think about user**, what he sees and what he does. Then you split this vision into reusable parts and design your bot combining dialogs, widows and widgets. By this moment you can review interface and add your core logic. 
 
 Many components are ready for use, but you can extend and add your own widgets and even core features. 
 
