@@ -1,8 +1,8 @@
 # Ezia-ChatAI
 
-[![PyPI version](https://badge.fury.io/py/aiogram-dialog.svg)](https://badge.fury.io/py/aiogram-dialog)
-[![Doc](https://readthedocs.org/projects/aiogram-dialog/badge/?version=latest&style=flat)](https://aiogram-dialog.readthedocs.io)
-[![downloads](https://img.shields.io/pypi/dm/aiogram_dialog.svg)](https://pypistats.org/packages/aiogram_dialog)
+[![PyPI version](https://badge.fury.io/py/aiogram-dialog.svg)](https://badge.fury.io/py/ezira-ai)
+[![Doc](https://readthedocs.org/projects/aiogram-dialog/badge/?version=latest&style=flat)](https://eziraai.network)
+[![downloads](https://img.shields.io/pypi/dm/aiogram_dialog.svg)](https://pypistats.org/packages/eziraai.network)
 [![license](https://img.shields.io/github/license/Tishka17/aiogram_dialog.svg)](https://github.com/Ezira-AI/Ezira-AI/blob/main/LICENSE))
 
 #### Version status:
