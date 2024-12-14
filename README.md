@@ -1,4 +1,4 @@
-# Ezia-ChatAI
+# Ezira-CHATAI
 
 [![PyPI version](https://badge.fury.io/py/aiogram-dialog.svg)](https://badge.fury.io/py/ezira-ai)
 [![Doc](https://readthedocs.org/projects/aiogram-dialog/badge/?version=latest&style=flat)](https://eziraai.network)
