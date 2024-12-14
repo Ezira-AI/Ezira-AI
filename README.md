@@ -3,7 +3,7 @@
 [![PyPI version](https://badge.fury.io/py/aiogram-dialog.svg)](https://badge.fury.io/py/ezira-ai)
 [![Doc](https://readthedocs.org/projects/aiogram-dialog/badge/?version=latest&style=flat)](https://eziraai.network)
 [![downloads](https://img.shields.io/pypi/dm/aiogram_dialog.svg)](https://pypistats.org/packages/eziraai.network)
-[![license](https://img.shields.io/github/license/Tishka17/aiogram_dialog.svg)](https://github.com/Ezira-AI/Ezira-AI/blob/main/LICENSE))
+[![license](https://img.shields.io/github/license/Tishka17/aiogram_dialog.svg)](https://github.com/Ezira-AI/Ezira-AI/blob/main/LICENSE)
 
 #### Version status:
 * v2.x - actual release, supports aiogram v3.x
